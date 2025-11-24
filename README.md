@@ -32,9 +32,6 @@ tifosi-database/
 │
 └── README.md → Documentation du projet (ce fichier)
 
-yaml
-Copier le code
-
 ---
 
 ## 🗄️ 1. Création de la base
@@ -95,8 +92,6 @@ Les résultats obtenus sont visibles dans le dossier :
 
 /screenshots
 
-yaml
-Copier le code
 
 Chaque capture correspond à une requête :  
 `rq1.png`, `rq2.png`, ..., `rq10.png`.
